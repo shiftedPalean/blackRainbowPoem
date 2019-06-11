@@ -1,4 +1,4 @@
-The Rainbow and the black Unicorn
+The Rainbow and the black Unicorn and the Zebra
 
 Pink
 Red
@@ -12,3 +12,4 @@ Gray
 And a black Unicorn
 These are the colors of the rainbow
 And the black Unicorn.
+The Zebra.
