@@ -9,6 +9,7 @@ Green
 Blue
 Purple
 Gray
+White
 And a black Unicorn
 These are the colors of the rainbow
 And the black Unicorn.
