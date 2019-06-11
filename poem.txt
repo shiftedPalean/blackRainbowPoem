@@ -1,6 +1,7 @@
 The black Rainbow
 
 Red
+Ruby
 Orange
 Yellow
 Green
